@@ -1,0 +1,9 @@
+Handle.lo: Handle.cpp /usr/include/stdc-predef.h Handle.h \
+ ../pkcs11/cryptoki.h ../pkcs11/pkcs11.h ../pkcs11/pkcs11t.h \
+ ../pkcs11/pkcs11f.h
+/usr/include/stdc-predef.h:
+Handle.h:
+../pkcs11/cryptoki.h:
+../pkcs11/pkcs11.h:
+../pkcs11/pkcs11t.h:
+../pkcs11/pkcs11f.h:

@@ -1,0 +1,4 @@
+OSSLGOSTR3411.lo: OSSLGOSTR3411.cpp /usr/include/stdc-predef.h \
+ ../../../config.h
+/usr/include/stdc-predef.h:
+../../../config.h:

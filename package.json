@@ -1,0 +1,28 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/common": "^3.2.0",
+    "@ethereumjs/tx": "^4.2.0",
+    "bignumber.js": "^9.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.7.0",
+    "express": "^4.18.2",
+    "graphene-pk11": "^2.3.2",
+    "nodemon": "^3.0.1",
+    "pkcs11js": "^1.3.1",
+    "web3": "^4.0.3",
+    "web3-eth-accounts": "^4.0.3"
+  }
+}
